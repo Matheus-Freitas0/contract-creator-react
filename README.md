@@ -33,7 +33,7 @@ Sistema web moderno para geração automática de contratos de desenvolvimento d
 
 ```bash
 # Clone o repositório
-git clone <url-do-repositorio>
+git clone https://github.com/Matheus-Freitas0/contract-creator-react.git
 cd contract-creator-react
 
 # Instale as dependências
